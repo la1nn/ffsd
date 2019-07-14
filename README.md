@@ -1,2 +1,2 @@
 # ffsd
-fully featured server
+fully featured dedicated server
